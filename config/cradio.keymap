@@ -6,7 +6,7 @@
 #include "../miryoku/miryoku.dtsi"
 #include "keys_se.h"
 
-{
+/ {
     combos {
         compatible = "zmk,combos";
       combo_aring{
