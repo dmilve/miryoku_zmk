@@ -12,19 +12,19 @@
       combo_aring{
           layers = <0>;
           timeout-ms = <50>;
-          key-positions = <11 18>;
+          key-positions = <10 19>;
           bindings = <&kp SE_A_RING>;
         };
       combo_oe{
           layers = <0>;
           timeout-ms = <50>;
-          key-positions = <20 18>;
+          key-positions = <19 17>;
           bindings = <&kp SE_O_UMLAUT>;
         };
         combo_ae {
             layers = <0>;
             timeout-ms = <50>;
-            key-positions = <11 18>;
+            key-positions = <10 17>;
             bindings = <&kp SE_A_UMLAUT>;
         };
     };
